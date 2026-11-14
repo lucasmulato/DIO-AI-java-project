@@ -1,4 +1,4 @@
-https://web.dio.mehttps://web.dio.mehttps://web.dio.me# 💳 Payment API — Padrões de Projeto GoF com Spring Boot
+# 💳 Payment API — Padrões de Projeto GoF com Spring Boot
 
 API REST de pagamentos desenvolvida para demonstrar, na prática, a aplicação dos **padrões clássicos GoF** (Gang of Four) integrados às abstrações do **Spring Framework**.
 
